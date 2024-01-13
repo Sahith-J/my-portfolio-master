@@ -122,7 +122,7 @@ export const ProjectList = [
     description:
       "It is a simple game developed for fun. It is designed to be compatible with existing technologies",
     tech_stack: ["ReactJS", "JS", "Bootstrap"],
-    github_url: "https://github.com/DevKrishnasai/rock-paper-scissors-react",
+    github_url: "https://github.com/Sahith-J/rock-paper-scissors",
     demo_url: "https://devkrishnasai.github.io/rock-paper-scissors-react/",
   },
   
